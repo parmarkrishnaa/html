@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.box{
+    width: 800px;
+    height: 537px;
+    border: 2px solid #000;
+}
+img{
+    width: 100%;
+    object-fit: cover;
+    object-position: 50%;
+}

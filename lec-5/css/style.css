@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: brown;
+}
+.container{
+    max-width: 1400px;
+    margin: 0 auto;
+}
+.chessboard{
+    margin: 20px auto;
+    width: 600px;
+    height: 600px;
+    border: 5px solid black;   
+}
+.black{
+    background-color: #95B9C7;
+    width: calc(100% - 87.5%);
+    height: calc(100% - 87.5%);
+    float: left;
+    text-align: center;
+    font-size: 50px;
+}
+.white{
+    background-color: #2F539B;
+    width: calc(100% - 87.5%);
+    height: calc(100% - 87.5%);
+    float: left;
+    text-align: center;
+    font-size: 50px;
+}
+.clear{
+    clear: both;
+}
