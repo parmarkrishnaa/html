@@ -1,0 +1,125 @@
+body{
+    text-align: center;
+    position: relative;
+    top: 180px;
+}
+.box1{
+    width: 190px;
+    height: 220px;
+    border-radius: 20%;
+    background: linear-gradient(180deg, rgba(10,1,45,1) 0%, rgba(221,226,11,1) 0%, rgba(113,173,20,1) 100%, rgba(99,195,34,1) 100%, rgba(189,247,104,1) 100%);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    margin: 10px;
+}
+.b1{
+    width: 25px;
+    margin: 15px;
+    padding: 10px;
+    border: 2px solid grey;
+    border-radius: 20%;
+}
+.web{
+    background-color: white;
+    padding: 5px;
+    position: relative;
+    top: -20px;
+    color: greenyellow;
+    font-weight: bold;
+}
+.para1{
+    font-size: 12px;
+    position: relative;
+    top: -23px;
+}
+.box2{
+    width: 190px;
+    height: 220px;
+    border-radius: 20%;
+    background: linear-gradient(180deg, rgba(10,1,45,1) 0%, rgba(6,166,76,1) 0%, rgba(0,96,147,1) 100%, rgba(10,130,36,1) 100%, rgba(69,113,0,1) 100%, rgba(12,105,164,1) 100%);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    margin: 10px;
+}
+.b2{
+    width: 25px;
+    margin: 15px;
+    padding: 10px;
+    border: 2px solid grey;
+    border-radius: 20%;
+}
+.dev{
+    background-color: white;
+    padding: 5px;
+    position: relative;
+    top: -20px;
+    color: greenyellow;
+    font-weight: bold;
+}
+.para2{
+    font-size: 12px;
+    position: relative;
+    top: -23px;
+}
+.box3{
+    width: 190px;
+    height: 220px;
+    border-radius: 20%;
+    background: linear-gradient(180deg, rgba(10,1,45,1) 0%, rgba(3,166,145,1) 0%, rgba(26,45,138,1) 100%, rgba(113,173,20,1) 100%, rgba(99,195,34,1) 100%);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    margin: 10px;
+}
+.b3{
+    width: 25px;
+    margin: 15px;
+    padding: 10px;
+    border: 2px solid grey;
+    border-radius: 20%;
+}
+.design{
+    background-color: white;
+    padding: 5px;
+    position: relative;
+    top: -20px;
+    color: greenyellow;
+    font-weight: bold;
+}
+.para3{
+    font-size: 12px;
+    position: relative;
+    top: -23px;
+}
+.box4{
+    width: 190px;
+    height: 220px;
+    border-radius: 20%;
+    background: linear-gradient(180deg, rgba(10,1,45,1) 0%, rgba(208,3,189,1) 0%, rgba(71,5,133,1) 100%, rgba(10,130,36,1) 100%, rgba(69,113,0,1) 100%, rgba(12,105,164,1) 100%);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    margin: 10px;
+}
+.b4{
+    width: 25px;
+    margin: 15px;
+    padding: 10px;
+    border: 2px solid grey;
+    border-radius: 20%;
+}
+.building{
+    background-color: white;
+    padding: 5px;
+    position: relative;
+    top: -20px;
+    color: greenyellow;
+    font-weight: bold;
+}
+.para4{
+    font-size: 12px;
+    position: relative;
+    top: -23px;
+}

@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 1200px;
+    height: 100vh;
+    margin: 0 auto;
+}
+.border{
+    background-image: url('../assets/images/Screenshot_2024-12-04_130438-removebg-preview.png');
+    background-position: center;
+    width: 100%;
+    height: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0 auto;
+}
+.fill{
+    background-image: url('../assets/images/Screenshot_2024-12-04_130526-removebg-preview-removebg-preview.png');
+    background-position: center;
+    width: 100%;
+    height: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+}

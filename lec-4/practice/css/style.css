@@ -1,0 +1,36 @@
+.box1{
+    width: 1250px;
+    height: 600px;
+    margin: 40px;
+    background-color: aqua;
+}
+.box2{
+    width: 1250px;
+    height: 600px;
+    margin: 40px;
+    background: linear-gradient(red,blue,green);
+}
+.box3{
+    width: 1250px;
+    height: 600px;
+    margin: 40px;
+    background: linear-gradient(247deg, rgba(10,1,45,1) 0%, rgba(2,0,36,1) 9%, rgba(205,189,102,1) 48%, rgba(0,80,96,1) 100%, rgba(0,212,255,1) 100%);
+}
+.box4{
+    width: 1250px;
+    height: 600px;
+    margin: 40px;
+    background-image: url(../images/nature.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.box5{
+    width: 1250px;
+    height: 600px;
+    margin: 40px;
+    background-color: blueviolet;
+    color: aqua;
+    padding: 25px;
+    text-align: center;
+    text-align: justify;
+}
