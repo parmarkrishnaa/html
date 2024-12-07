@@ -1,0 +1,10 @@
+{
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.screenReaderAnnounceInlineSuggestion": true,
+    "editor.snippetSuggestions": "inline",
+    "editor.inlineSuggest.suppressSuggestions": true,
+    "terminal.integrated.suggest.enabled": true,
+    "debug.console.acceptSuggestionOnEnter": "on",
+    "emmet.useInlineCompletions": true
+}

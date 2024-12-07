@@ -1,0 +1,178 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.cart {
+    width: 250px;
+    height: 300px;
+    border: 2px  black;
+    border-radius: 20px;
+    background-color: aqua;
+    display: inline-block;
+    margin: 10px;
+    overflow: hidden;
+}
+
+.cart:nth-child(10) img{
+    object-fit: cover;
+    object-position: 50%;
+}
+.cart img{
+    width: 100%;
+    height: 160px;
+    border-radius: 20px 20px 0 0;
+}
+
+.cart p{
+    width: 100%;
+    height: 100px;
+    border-radius: 20px;
+}
+
+.cart:first-child:hover{
+    background-color: red;
+}
+
+.cart:first-child:hover img{
+    transform: translateX(50%);
+}
+
+.cart:first-child:hover p{
+    color: blue;
+}
+
+.cart:nth-child(2):hover{
+    background-color: rgb(4, 15, 15);
+}
+
+.cart:nth-child(2):hover img{
+    transform: translateY(50%);
+}
+
+.cart:nth-child(2):hover p{
+    color: blueviolet;
+
+}
+
+.cart:nth-child(3):hover{
+    background-color: purple;
+}
+
+.cart:nth-child(3):hover img{
+    transform: translate(50%,50%);
+}
+
+.cart:nth-child(3):hover p{
+    color: aqua;
+    background-color: transparent;
+}
+
+.cart:nth-child(4):hover{
+    background-color: pink;
+}
+
+.cart:nth-child(4):hover img{
+    transform: rotateX(180deg);
+}
+
+.cart:nth-child(4):hover p{
+    background-color: transparent;
+}
+
+.cart:nth-child(5):hover{
+    background-color: chartreuse;
+}
+
+.cart:nth-child(5):hover img{
+    transform: rotateY(180deg);
+}
+
+.cart:nth-child(5):hover p{
+    color: chocolate;
+}
+
+.cart:nth-child(6):hover{
+    background-color: coral;
+}
+
+.cart:nth-child(6):hover img{
+    transform: rotateX(40deg) rotateY(50deg);
+}
+
+.cart:nth-child(6):hover p{
+    color: cornflowerblue;
+}
+
+.cart:nth-child(7):hover{
+    background-color: crimson;
+}
+
+.cart:nth-child(7):hover img{
+    transform: scaleX(150%);
+}
+
+.cart:nth-child(7):hover p{
+    color: cyan;
+}
+
+.cart:nth-child(8):hover{
+    background-color: cadetblue;
+}
+
+.cart:nth-child(8):hover img{
+    transform: scaleY(150%);
+}
+
+.cart:nth-child(8):hover p{
+    color: burlywood;
+}
+
+.cart:nth-child(9):hover{
+    background-color: black;
+}
+
+.cart:nth-child(9):hover img{
+    transform: scale(50%,-70%);
+}
+
+.cart:nth-child(9):hover p{
+    color: darkgoldenrod;
+}
+
+.cart:nth-child(10):hover{
+    background-color: darkgray;
+}
+
+.cart:nth-child(10):hover img{
+    transform: skewX(50deg);
+}
+
+.cart:nth-child(10):hover p{
+    color: darkgreen;
+}
+
+.cart:nth-child(11):hover{
+    background-color: darkmagenta;
+}
+
+.cart:nth-child(11):hover img{
+    transform: skewY(-50deg);
+}
+
+.cart:nth-child(11):hover p{
+    color: darkorange;
+}
+
+.cart:nth-child(12):hover{
+    background-color: darkkhaki;
+}
+
+.cart:nth-child(12):hover img{
+    transform: skew(50deg,-20deg);
+}
+
+.cart:nth-child(12):hover p{
+    color: khaki;
+}
